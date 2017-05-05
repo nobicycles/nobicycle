@@ -142,7 +142,7 @@ hasCJKLanguage = true
   autoThumbnailImage = false
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "/logo.png"
+  favicon = "/img/logo.png"
 
   # Header configuration
   # The link at the right of the header is customizable
