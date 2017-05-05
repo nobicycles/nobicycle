@@ -26,7 +26,7 @@ hasCJKLanguage = true
   gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://nobicycle.com/img/logo.png"
+  picture = "/img/logo.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = ""
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
