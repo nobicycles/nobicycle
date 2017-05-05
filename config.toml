@@ -160,6 +160,10 @@ hasCJKLanguage = true
   # they have to be referred from static root. Example
   # customJS = ["js/foo.js"]
 
+  # GoogleタグマネージャのID head.html
+  googletagmanager = "GTM-M2JBN6"
+
+
   [params.header.rightLink]
     class = ""
     icon = ""
@@ -172,6 +176,3 @@ hasCJKLanguage = true
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
-
-  # GoogleタグマネージャのID head.html
-  googletagmanager = "GTM-M2JBN6"
