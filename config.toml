@@ -19,7 +19,7 @@ hasCJKLanguage = true
 
 [author]
   name = ""
-  bio = "新米ロードバイカー"
+  bio = "Fresh Road Biker" 
   job = ""
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
