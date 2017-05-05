@@ -1,4 +1,4 @@
-bseurl = "https://nobicycle.com"
+baseurl = "https://nobicycle.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "ロードバイクとその周辺"
@@ -142,7 +142,7 @@ hasCJKLanguage = true
   autoThumbnailImage = false
 
   # Your favicon path, default is "/favicon.png"
-  favicon = /img/logo.png
+  favicon = "/img/logo.png"
 
   # Header configuration
   # The link at the right of the header is customizable
